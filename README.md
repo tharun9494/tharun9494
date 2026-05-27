@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate and self-motivated Full Stack Developer and AI enthusiast who loves building real-world technology solutions. I have experience in developing web and mobile applications using React.js, Django, React Native, and modern cloud tools.<br><br>I am particularly interested in Artificial Intelligence, Computer Vision, DevOps, and Startup-oriented product development. I enjoy working on innovative projects that solve practical problems, such as safety systems, digital platforms, and smart automation solutions.<br><br>I continuously focus on improving my skills, learning new technologies, and contributing to impactful projects. My goal is to build scalable products, work on freelance opportunities, and grow as a technology entrepreneur.<br><br>💡 Strong areas of interest:<br>	•	Full Stack Web & App Development<br>	•	AI / Machine Learning & Computer Vision<br>	•	DevOps & Cloud Technologies<br>	•	Startup Product Development<br>	•	Problem Solving & Innovation<br><br>🚀 I am always open to collaboration, freelance projects, and learning opportunities.
+I am a passionate and self-motivated Full Stack Developer and AI enthusiast who loves building real-world technology solutions. I have experience in developing web and mobile applications using React.js, Django, React Native, and modern cloud tools.<br><br>
 
 
 ## 🌐 Socials:
